@@ -1,1 +1,1 @@
-vue wabpack4 
+vue2 + wabpack4 
